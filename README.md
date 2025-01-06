@@ -1,13 +1,6 @@
-# Projekt: Kustomizowane Kursory
+### Te repo zawiera kursory zrobione przez [@jepriCreations](https://www.deviantart.com/jepricreations) na DevianArt
 
-Ten projekt umożliwia użytkownikom pobranie i wykorzystanie niestandardowych kursorów, które mogą dodać charakter i styl do ich komputerów.
-
-## Funkcjonalności
-
-- Kolekcja unikalnych kursorów o różnych stylach i tematach (minimalistyczne, retro, gamingowe, itp.).
-- Instrukcje instalacji dla systemów Windows, macOS i Linux.
-- Obsługa niestandardowych schematów kolorów.
-- Możliwość tworzenia i udostępniania własnych kursorów.
+# Customowe Kursory dla Windows 11
 
 ## Jak zacząć?
 
@@ -43,13 +36,10 @@ Ten projekt umożliwia użytkownikom pobranie i wykorzystanie niestandardowych k
 2. Użyj narzędzi, takich jak [cursor.cc](https://www.cursor.cc/), aby przekonwertować pliki na format `.cur` lub `.ani`.
 3. Umieść gotowe pliki w folderze projektu i udostępnij je innym użytkownikom.
 
-## Contributing
-Chcesz pomóc rozwijać projekt? Zachęcam do zgłaszania błędów i propozycji zmian.
-
 ## Licencja
 Projekt jest udostępniany na licencji MIT. Więcej szczegółów można znaleźć w pliku [LICENSE](LICENSE).
 
 ## Kontakt
 Jeśli masz pytania lub sugestie, skontaktuj się ze mną przez e-mail: `kontakt@example.com` lub utwórz zgłoszenie na GitHubie.
 
-Miłej zabawy z kursorami!
+Miłej zabawy z kursorem!
