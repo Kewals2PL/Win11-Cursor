@@ -2,7 +2,7 @@
 
 # Customowe Kursory dla Windows 11
 
-## Jak zacząć?
+## Start
 
 1. **Pobierz projekt**:
    ```bash
@@ -27,7 +27,6 @@
 
 ### Linux
 
-#### Pierwszy Sposób
 1. Skopiuj folder z kursorami do katalogu `~/.icons` lub `/usr/share/icons`.
 2. Przejdź do: `Ustawienia > Wygląd > Zmień motyw kursora`.
  
@@ -38,8 +37,5 @@
 
 ## Licencja
 Projekt jest udostępniany na licencji MIT. Więcej szczegółów można znaleźć w pliku [LICENSE](LICENSE).
-
-## Kontakt
-Jeśli masz pytania lub sugestie, skontaktuj się ze mną przez e-mail: `kontakt@example.com` lub utwórz zgłoszenie na GitHubie.
 
 Miłej zabawy z kursorem!
