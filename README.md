@@ -1,6 +1,6 @@
 ### Te repo zawiera kursory zrobione przez [@jepriCreations](https://www.deviantart.com/jepricreations) na DevianArt
 
-# Customowe Kursory dla Windows 11
+# Customowy Kursor dla Windows 11
 
 ## Start
 
