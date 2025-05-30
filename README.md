@@ -82,3 +82,7 @@ This project is released under the MIT License. More details can be found in the
 Projekt jest udostępniany na licencji MIT. Więcej szczegółów można znaleźć w pliku [LICENSE](LICENSE).
 
 Miłej zabawy z kursorem!
+
+
+
+bibata: https://www.gnome-look.org/p/1914825
